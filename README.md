@@ -50,7 +50,7 @@
 
 ## 🏅 Certifications
 
-| Certification | Focus | Status |
+| Certification | Status |
 |---|---|---|
 | **CJCA** | ✅ **Completed** |
 
