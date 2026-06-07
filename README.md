@@ -10,7 +10,7 @@
 - 🔐 Passionate about **offensive and defensive cybersecurity**
 - 🐍 Building **Python automation tools** focused on security
 - 📚 Studying **Cybersecurity** — focused on pentest, recon and vulnerability analysis
-- 🏅 Certifications: **CJCA · CWES · CompTIA Security+**
+- 🏅 Certifications: **CJCA
 - 💼 Also know: **Node.js**, **React** and **Git**
 - 🌱 Exploring: offensive automation, CTF scripting and pentest tooling
 
