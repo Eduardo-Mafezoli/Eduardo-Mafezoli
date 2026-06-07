@@ -51,7 +51,7 @@
 ## 🏅 Certifications
 
 | Certification | Status |
-|---|---|---|
+|---|---|
 | **CJCA** | ✅ **Completed** |
 
 ---
