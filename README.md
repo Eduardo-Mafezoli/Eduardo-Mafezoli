@@ -50,8 +50,6 @@
 | Certification | Status |
 |---|---|
 | **CJCA** | ✅ **Completed** |
-| **CWES** | ✅ **Completed** |
-| **CompTIA Security+** | ✅ **Completed** |
 
 ---
 
