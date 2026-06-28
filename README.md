@@ -1,34 +1,21 @@
 # 👋 Hi, I'm Eduardo Mafezoli!
-
-- 🔐 Exploring the world of offensive cybersecurity and building tools that make a difference.
+- 🔐 Exploring the world of cybersecurity — from breaking things to defending them.
 - 🎓 Studying Cybersecurity at Unifor.
-- 💻 Building web applications with security-first mindset.
-- 💼 Looking for my first opportunity in the security or development field.
-- 🌱 Currently learning more about automation for Cybersecurity and React ecosystem.
+- 🛡️ Building a security-first mindset through hands-on labs and real-world practice.
+- 💼 Looking for my first opportunity in the security field — offensive or defensive.
+- 🌱 Currently sharpening skills in pentest, recon automation and threat analysis.
 
 ## 🧑‍💻 About me
-
 - 🔐 Passionate about **offensive and defensive cybersecurity**
-- ⚛️ Building **React applications** with clean architecture and reusable components
-- 🐍 Building **Python automation tools** focused on security
-- 📚 Studying **Cybersecurity** — focused on pentest, recon and vulnerability analysis
-- 🏅 Certifications: **CJCA** — applied to write secure and resilient code
-- 💼 Also know: **Node.js**, **React** and **Git**
-- 🌱 Exploring: offensive automation, CTF scripting and pentest tooling
+- 🕵️ Practicing **penetration testing** through HTB labs — web apps, AD, network attacks
+- 🐍 Building **Python automation tools** focused on security workflows
+- 📚 Studying toward **CPTS** and **Security+** certifications
+- 🏅 Certified: **CJCA** — Junior Cybersecurity Analyst
+- 🌱 Exploring: recon automation, CTF scripting and pentest tooling
 
 ## 🛡️ My Skills
 
-**Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Cybersecurity & Automation**
+**Cybersecurity**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -37,8 +24,9 @@
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-**DevOps & Tools**
+**Tools & Environment**
 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -52,7 +40,9 @@
 
 | Certification | Status |
 |---|---|
-| **CJCA** | ✅ **Completed** |
+| **CJCA** — Cisco Junior Cybersecurity Analyst | ✅ Completed |
+| **CompTIA Security+** | 🔄 In progress |
+| **CPTS** — HTB Certified Penetration Testing Specialist | 🔄 In progress |
 
 ---
 
